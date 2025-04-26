@@ -26,6 +26,6 @@ This program is not complete. Some very basic, but essential features of chess a
 - LAN multiplayer
 - Online multiplayer
 
-  # credits
-  - Entire program written by **Alec Baker**
-  - ASCII "chess" art provided by **patorjk.com**
+# credits
+- Entire program written by **Alec Baker**
+- ASCII "chess" art provided by **patorjk.com**
