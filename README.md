@@ -10,8 +10,8 @@ This project was programmed soley by me, Alec Baker, and my knowledge of C. No t
 Player 1 is **"UPR"**, whose pieces are represented by uppercase letters and will always go first. Player 2 is **"lwr"**, whose pieces are represented by lowercase letters. To move a piece, use the grid coordinates seen on the left and below the board to locate the piece to move, then type the coordinate and press enter. When a valid piece is chosen, the board will show your available moves marked by a small 'o'. Type a coordinate of the valid move you wish to make and press enter. 
 
 # features
-Reactive board - the board will change to show available moves of selected pieces
-Valid moves only - when a move is attempted, a check is performed to ensure the move is within that piece's rules
+- Reactive board: the board will change to show available moves of selected pieces
+- Valid moves only: when a move is attempted, a check is performed to ensure the move is within that piece's rules
 
 # in the future...
 This program is not complete. Some very basic, but essential features of chess are not yet present. I plan to work on this in my free time and get it fully functional. Here is a list of what's missing, plus some things I want to implement (maybe).
