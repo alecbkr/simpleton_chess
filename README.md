@@ -1,7 +1,9 @@
 # simpleton_chess
-Small chess program created from the ground up in C that runs on the Windows command line. This project was programmed soley by me, Alec Baker, and my knowledge of C to exercise my programming capabilities.
+Small chess program created from the ground up in C that runs on the Windows command line. 
 
 # about
+This project was programmed soley by me, Alec Baker, and my knowledge of C to exercise my programming capabilities.
+
 A typical chess implementation on an 8x8 board. Only supports local 2 player games. Each pieces is represented on the board by the first character in their respective names (excluding knight which is represented by 'n'). All pieces are capable of their usual moves, excluding complex maneuvers such as castling. No win condition is currently present.
 
 # how to play
