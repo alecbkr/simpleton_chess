@@ -20,7 +20,7 @@ This program is not complete. Some very basic, but essential features of chess a
 - Threatened king notification (check, checkmate)
 - Pawn promotions
 - Special moves (castling, en passant)
-
+- multiplatform support
 - Saved games
 - Game replays
 - graphical interface
