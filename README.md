@@ -4,7 +4,7 @@ Small chess program created from the ground up in C that runs on the Windows com
 # about
 A typical chess implementation on an 8x8 board and printed in the command line as ASCII. Only supports local 2 player games. Each piece is represented on the board by the first letter of its name (excluding knight which is represented by 'n'). All pieces are capable of their usual moves, excluding complex maneuvers such as castling. No win condition is currently present.
 
-This project was programmed soley by me, Alec Baker, and my knowledge of C. No tutorials or help was used in its making. 
+This project was programmed soley by me, Alec Baker, and my knowledge of C. No tutorials, help, or AI was used in its making. 
 
 # how to play
 Player 1 is **"UPR"**, whose pieces are represented by uppercase letters and will always go first. Player 2 is **"lwr"**, whose pieces are represented by lowercase letters. To move a piece, use the grid coordinates seen on the left and below the board to locate the piece to move, then type the coordinate and press enter. When a valid piece is chosen, the board will show your available moves marked by a small 'o'. Type a coordinate of the valid move you wish to make and press enter. 
