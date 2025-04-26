@@ -1,2 +1,31 @@
 # simpleton_chess
-Small chess program created from scratch in C that runs in windows command line.
+Small chess program created from the ground up in C that runs on the Windows command line.
+
+# about
+A typical chess implementation on an 8x8 board. Only supports local 2 player games. Each pieces is represented on the board by the first character in their respective names (excluding knight which is represented by 'n'). All pieces are capable of their usual moves, excluding complex maneuvers such as castling. No win condition is currently present.
+
+# how to play
+Player 1 is **"UPR"**, whose pieces are represented by uppercase letters and will always go first. Player 2 is **"lwr"**, whose pieces are represented by lowercase letters. To move a piece, use the grid coordinates seen on the left and below the board to locate the piece to move, then type the coordinate and press enter. When a valid piece is chosen, the board will show your available moves marked by a small 'o'. Type a coordinate of the valid move you wish to make and press enter. 
+
+# features
+Reactive board - the board will change to show available moves of selected pieces
+Valid moves only - when a move is attempted, a check is performed to ensure the move is within that piece's rules
+
+# in the future...
+This program is not complete. Some very basic, but essential features of chess are not yet present. I plan to work on this in my free time and get it fully functional. Here is a list of what's missing, plus some things I want to implement (maybe).
+
+- Win condition
+- Threatened king notification (check, checkmate)
+- Pawn promotions
+- Special moves (castling, en passant)
+
+- Saved games
+- Game replays
+- graphical interface
+- Simple AI opponent
+- LAN multiplayer
+- Online multiplayer
+
+  # credits
+  Entire program written by **Alec Baker**
+  ASCII "chess" art provided by **patorjk.com**
