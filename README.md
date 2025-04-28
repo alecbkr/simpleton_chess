@@ -7,7 +7,7 @@ A typical chess implementation on an 8x8 board and printed in the command line a
 This project was programmed soley by me, Alec Baker, and my knowledge of C. No tutorials, help, or AI was used in its making. 
 
 # how to play
-Player 1 is **"UPR"**, whose pieces are represented by uppercase letters and will always go first. Player 2 is **"lwr"**, whose pieces are represented by lowercase letters. To move a piece, use the grid coordinates seen on the left and below the board to locate the piece to move, then type the coordinate and press enter. When a valid piece is chosen, the board will show your available moves marked by a small 'o'. Type a coordinate of the valid move you wish to make and press enter. 
+Player 1 is **"UPR"**, whose pieces are represented by uppercase letters and will always go first. Player 2 is **"lwr"**, whose pieces are represented by lowercase letters. To move a piece, use the grid coordinates seen on the left and below the board to locate the piece to move, then type the coordinate and press enter. When a valid piece is chosen, the board will show your available moves marked by a small 'o'. Type the coordinate of a valid move you wish to make and press enter to finalize your turn.
 
 # features
 - **Reactive board**: the board will change to show available moves of selected pieces
