@@ -1,5 +1,5 @@
 # simpleton_chess
-Small chess program created from the ground up in C that runs on the Windows command line. 
+Small chess program built from the ground up in C that runs on the Windows command line. 
 
 # about
 A typical chess implementation on an 8x8 board and printed in ASCII characters to the command line. Only supports local 2 player games. Each piece is represented on the board by the first letter of its name (excluding **knight** which is represented by '**n**'). All pieces are capable of their usual moves, excluding complex maneuvers such as castling. No win condition is currently present.
