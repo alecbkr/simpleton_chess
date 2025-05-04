@@ -30,4 +30,4 @@ This program is not complete. Some very basic, but essential features of chess a
 
 # credits
 - Entire program written by **Alec Baker**
-- ASCII "chess" art provided by **patorjk.com**
+- ASCII "chess" art sourced from **patorjk.com**
